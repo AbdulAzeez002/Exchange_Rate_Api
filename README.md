@@ -12,5 +12,14 @@ After you've set the environmental variables in the .env file at the root of the
 
 Now you can run `npm start` in the terminal and the application should work.
 
+
+Backend Api to check using postman : (POST method)  localhost:5000/api/exchange  
+
+(need to send "amount" and "currency" in the body of the request)
+ 
+ 
+
 Time Spend : It took me almost 4 hours to complete this work
+
+
 
